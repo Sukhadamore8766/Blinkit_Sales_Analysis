@@ -1,8 +1,7 @@
 # Blinkit_Sales_Analysis
  A brief overview of the analysis, its purpose, and the data source.
-
-# AdventureWork_Sales_Analysis
-<img src="Images/bike logo.jpg" width="2000" height="500"/>&nbsp;
+ 
+<img src="Images/blinkit_img.jpeg" width="2000" height="500"/>&nbsp;
 This is an exciting project I had prepared to push my limits in Power BI. 
 
 ## Project Overview
@@ -40,4 +39,4 @@ This project provides a comprehensive analysis of Blinkit's sales data to derive
   improvement through targeted promotions or product assortment optimization.
 
 ## Dashboard :
-<img src="Images/Dash-1.jpg" width="2500" height="600"/>&nbsp;
+<img src="Images/blinkit_sales_analysis_dashboard_img.jpg" width="2500" height="600"/>&nbsp;
