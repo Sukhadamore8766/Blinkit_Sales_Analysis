@@ -1,7 +1,7 @@
 # Blinkit_Sales_Analysis
  A brief overview of the analysis, its purpose, and the data source.
  
-<img src="Images/blinkit_img.jpeg" width="2000" height="500"/>&nbsp;
+<img src="Images/blinkit_img.png" width="2000" height="500"/>&nbsp;
 This is an exciting project I had prepared to push my limits in Power BI. 
 
 ## Project Overview
