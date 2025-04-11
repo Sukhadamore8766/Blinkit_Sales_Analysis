@@ -1,14 +1,38 @@
-# Blinkit_Sales_Analysis
- A brief overview of the analysis, its purpose, and the data source.
- 
-<img src="Images/blinkit_img.png" width="2000" height="500"/>&nbsp;
-This is an exciting project I had prepared to push my limits in Power BI. 
 
-## Project Overview
-This project provides a comprehensive analysis of Blinkit's sales data to derive actionable insights and recommendations for optimizing sales strategies and boosting revenue. The analysis covers key aspects such as total sales, customer segmentation, monthly sales trends, product performance, category analysis, and campaign effectiveness. The goal is to identify opportunities for growth and improvement in Blinkit's business operations.
-## Tool used :
+# Blinkit Sales Dashboard Analysis
+
+This repository contains a Power BI dashboard analyzing Blinkit sales data, providing insights into revenue distribution, top-selling products, campaign performance, and more.
+<img src="Images/blinkit_img.png" width="2000" height="500"/>&nbsp;
+
+## Overview
+
+The dashboard offers a comprehensive view of Blinkit's sales performance, allowing stakeholders to:
+
+- **Understand revenue trends:** Track total sales, average monthly sales, and revenue distribution across customer segments.
+- **Identify top-performing products:** Discover the best-selling products and their contribution to overall revenue.
+- **Evaluate campaign effectiveness:** Analyze the performance of different marketing campaigns and their impact on sales.
+- **Gain insights into customer behavior:** Understand customer segmentation and their purchasing patterns.
+
+## Key Features
+
+- **Interactive Visualizations:** The dashboard utilizes a variety of interactive charts and graphs, including line charts, bar charts, and pie charts, to present data in a clear and engaging manner.
+- **Filtering and Slicing:** Users can filter data by year, month, product name, and area to drill down into specific segments and gain deeper insights.
+- **Key Performance Indicators (KPIs):** The dashboard highlights key metrics such as total sales, total orders, distinct products ordered, average sales, and average rating.
+- **Campaign Performance Analysis:** A dedicated section compares campaign spend against revenue generated, enabling users to evaluate the ROI of different marketing initiatives.
+- **Top 10 Product Analysis:** The dashboard showcases the top 10 selling products and their respective sales figures.
+- **Revenue by Category:** Provides a breakdown of revenue across different product categories, allowing users to identify high-performing segments.
+
+## Data Source
+
+The data for this dashboard is sourced from Kaggle.[Data File](https://www.kaggle.com/datasets/akxiit/blinkit-sales-dataset)
+
+## Tools Used
+
+- **Power BI:** For data visualization and dashboard creation.
 <img src="Images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp; 
-## Key Insights:
+
+
+## Key Insights
 •	Total Sales and Orders: Total sales are $4.97M, derived from 26K orders.
 
 •	Average Sales: The average sales are $994.5.
