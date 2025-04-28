@@ -28,7 +28,9 @@ The data for this dashboard is sourced from Kaggle.[Data File](https://www.kaggl
 
 ## Tools Used
 
-- **Power BI:** For data visualization and dashboard creation.
+- **Power BI:**
+- For data visualization and dashboard creation.
+ 
 <img src="Images/PowerBI Logo.jpg" width="300" height="150"/>&nbsp; 
 
 
