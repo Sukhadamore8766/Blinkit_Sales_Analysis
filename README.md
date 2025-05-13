@@ -75,4 +75,4 @@ The data for this dashboard is sourced from Kaggle.[Data File](https://www.kaggl
   improvement through targeted promotions or product assortment optimization.
 
 ## Dashboard :
-<img src="Images/blinkit_sales_analysis_dashboard_img.jpg" width="2500" height="600"/>&nbsp;
+<img src="Images/dashboard_img.png" width="2500" height="600"/>&nbsp;
